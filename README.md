@@ -7,8 +7,8 @@ https://scihub.copernicus.eu/dhus/#/self-registration
 To properly install and configure Jupyter Notebook:
 
 1) Download a base conda environment
-- recommendation: use Miniconda3 with Python 3.8 from: 
-https://docs.conda.io/en/latest/miniconda.html#windows-installers). 
+- recommendation: use Miniconda3 with Python 3.8 from:<br> 
+https://docs.conda.io/en/latest/miniconda.html#windows-installers. 
 
 2) Create a properly configured Jupyter Notebook Environment (Miniconda shell)<br>
 - use the yml file attached, after installing conda, run the following command:<br>
