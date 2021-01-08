@@ -1,5 +1,8 @@
 # jupyter-sar
-<h1>SAR Analysis with CATALYST library and open data from Sentinel-1</h1>
+<h1>SAR Analysis with CATALYST library and open data from Sentinel-1</h1><br>
+
+To download imagery from Copernicus SciHub, an account must be created / used to access the API<br>
+https://scihub.copernicus.eu/dhus/#/self-registration
 
 To properly install and configure Jupyter Notebook:
 
