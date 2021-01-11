@@ -4,6 +4,9 @@
 To download imagery from Copernicus SciHub, an account must be created / used to access the API<br>
 https://scihub.copernicus.eu/dhus/#/self-registration
 
+To leverage the functionality available from CATALYST Professional, you can install a copy of the software in your chosen environment (desktop):<br>
+https://catalyst.earth/products/catalyst-pro/<br>
+
 To properly install and configure Jupyter Notebook:
 
 1) Download a base conda environment
